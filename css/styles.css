@@ -1,0 +1,12 @@
+body {
+    background-color: #efefef;
+}
+footer {
+    border-top: 1px solid black;
+    padding-top: 1rem;
+}
+footer span {
+    text-align: center;
+    width: 100%;
+    display: block;
+}
